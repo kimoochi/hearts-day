@@ -14,7 +14,7 @@ export default function MusicPlayer({ isPlaying }) {
   }, [isPlaying]);
 
   return (
-    <audio ref={audioRef} loop controls>
+    <audio ref={audioRef} loop style={{ display: 'none' }}>
       <source src="/Rex_Orange_County_-_AMAZING_Lyrics.mp3" type="audio/mpeg" />
       Your browser does not support the audio element.
     </audio>
