@@ -3,7 +3,7 @@
 import { useState } from "react"
 
 const questions = [
-  { question: "If this is Ashley, what is my nickname?", answer: ["kikim", "Kikim"]},
+  { question: "If this is Ashley, what is my nickname? (NO CAPS PLS)", answer: "kikim"},
   { question: "If this is Ashley, when is your birthday? (MM/DD/YYYY)", answer: "12/06/2004" },
   { question: "If this is Ashley, is your favorite color pink? (Yes/No)", answer: "yes" },
 ]
