@@ -65,7 +65,7 @@ export default function FinalMessage() {
           <p>Amping sa imo work!</p>
           <p>Take care always, and remember that you're loved and appreciated. Sorry if kani lang ako ma give hheheheheheehehe</p>
           <img 
-      src="src/assets/123123.gif" 
+      src="public/arf arf.gif" 
       alt="A cute farewell GIF" 
       style={{ width: "200px", height: "auto", marginTop: "10px" }} 
     />

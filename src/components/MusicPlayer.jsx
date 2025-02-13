@@ -15,7 +15,7 @@ export default function MusicPlayer({ isPlaying }) {
 
   return (
     <audio ref={audioRef} loop>
-      <source src="src/assets/Rex_Orange_County_-_AMAZING_Lyrics.mp3" type="audio/mpeg" />
+      <source src="public/Rex_Orange_County_-_AMAZING_Lyrics.mp3" type="audio/mpeg" />
     </audio>
   )
 }
